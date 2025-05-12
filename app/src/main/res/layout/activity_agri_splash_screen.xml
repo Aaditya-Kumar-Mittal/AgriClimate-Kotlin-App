@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AgriSplashScreen">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="22dp"
+        app:cardCornerRadius="25dp"
+        app:cardElevation="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/myConstraintLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/mustard_200">
+
+            <!-- Image at the top -->
+            <ImageView
+                android:id="@+id/topImage1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/img_5"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHeight_percent="0.70"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <!-- Circular Progress Bar -->
+            <com.google.android.material.progressindicator.CircularProgressIndicator
+                android:id="@+id/progressBar1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:layout_marginBottom="8dp"
+                android:indeterminate="true"
+                android:visibility="gone"
+                app:indicatorColor="@array/progress_colors1"
+                app:indicatorDirectionCircular="clockwise"
+                app:indicatorSize="60dp"
+                app:layout_constraintEnd_toEndOf="@id/myConstraintLayout1"
+                app:layout_constraintStart_toStartOf="@id/myConstraintLayout1"
+                app:layout_constraintTop_toBottomOf="@id/topImage1"
+                app:trackThickness="5dp" />
+
+            <!-- Main Heading -->
+            <TextView
+                android:id="@+id/mainHeading1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="@string/app_name"
+                android:textColor="@color/paddy_800"
+                android:textSize="40sp"
+                android:textStyle="bold|italic"
+                app:layout_constraintEnd_toEndOf="@id/myConstraintLayout1"
+                app:layout_constraintStart_toStartOf="@id/myConstraintLayout1"
+                app:layout_constraintTop_toBottomOf="@id/progressBar1" />
+
+            <!-- Subheading -->
+            <TextView
+                android:id="@+id/subHeading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/vision"
+                android:textColor="@color/paddy_800"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="@id/myConstraintLayout1"
+                app:layout_constraintStart_toStartOf="@id/myConstraintLayout1"
+                app:layout_constraintTop_toBottomOf="@id/mainHeading1" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

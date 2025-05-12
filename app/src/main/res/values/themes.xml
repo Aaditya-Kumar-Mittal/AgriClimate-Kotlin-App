@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AgriClimate" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <item name="android:statusBarColor">@color/earth_700</item>
+        <item name="android:navigationBarColor">@color/earth_700</item>
+    </style>
+
+    <style name="Theme.AgriClimate" parent="Base.Theme.AgriClimate">
+        <item name="colorPrimary">@color/earth_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/earth_700</item>
+        <item name="android:navigationBarColor">@color/earth_700</item>
+    </style>
+
+    <style name="CustomRatingBar" parent="Widget.AppCompat.RatingBar">
+        <item name="android:progressDrawable">@drawable/rating_bar1</item>
+        <item name="android:minHeight">24dp</item>
+        <item name="android:maxHeight">48dp</item>
+    </style>
+
+</resources>

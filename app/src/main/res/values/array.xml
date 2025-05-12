@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="progress_colors1">
+        <item>@color/paddy_900</item>
+        <item>@color/mustard_900</item>
+        <item>@color/forest_500</item>
+        <item>@color/soil_500</item>
+        <item>@color/earth_500</item>
+        <item>@color/climate_500</item>
+    </array>
+</resources>

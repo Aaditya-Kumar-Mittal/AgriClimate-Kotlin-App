@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paddy Green -->
+    <color name="paddy_50">#E8F5E9</color>
+    <color name="paddy_100">#C8E6C9</color>
+    <color name="paddy_200">#A5D6A7</color>
+    <color name="paddy_300">#81C784</color>
+    <color name="paddy_400">#66BB6A</color>
+    <color name="paddy_500">#4CAF50</color>
+    <color name="paddy_600">#43A047</color>
+    <color name="paddy_700">#388E3C</color>
+    <color name="paddy_800">#2E7D32</color>
+    <color name="paddy_900">#1B5E20</color>
+
+    <!-- Mustard Yellow -->
+    <color name="mustard_50">#FFFDE7</color>
+    <color name="mustard_100">#FFF9C4</color>
+    <color name="mustard_200">#FFF59D</color>
+    <color name="mustard_300">#FFF176</color>
+    <color name="mustard_400">#FFEE58</color>
+    <color name="mustard_500">#FFEB3B</color>
+    <color name="mustard_600">#FDD835</color>
+    <color name="mustard_700">#FBC02D</color>
+    <color name="mustard_800">#F9A825</color>
+    <color name="mustard_900">#F57F17</color>
+
+    <!-- Wheat Gold -->
+    <color name="wheat_50">#FFF8E1</color>
+    <color name="wheat_100">#FFECB3</color>
+    <color name="wheat_200">#FFE082</color>
+    <color name="wheat_300">#FFD54F</color>
+    <color name="wheat_400">#FFCA28</color>
+    <color name="wheat_500">#FFC107</color>
+    <color name="wheat_600">#FFB300</color>
+    <color name="wheat_700">#FFA000</color>
+    <color name="wheat_800">#FF8F00</color>
+    <color name="wheat_900">#FF6F00</color>
+
+    <!-- Millet Green -->
+    <color name="millet_50">#F1F8E9</color>
+    <color name="millet_100">#DCEDC8</color>
+    <color name="millet_200">#C5E1A5</color>
+    <color name="millet_300">#AED581</color>
+    <color name="millet_400">#9CCC65</color>
+    <color name="millet_500">#8BC34A</color>
+    <color name="millet_600">#7CB342</color>
+    <color name="millet_700">#689F38</color>
+    <color name="millet_800">#558B2F</color>
+    <color name="millet_900">#33691E</color>
+
+    <!-- Corn Yellow -->
+    <color name="corn_50">#FFFDE7</color>
+    <color name="corn_100">#FFF9C4</color>
+    <color name="corn_200">#FFF59D</color>
+    <color name="corn_300">#FFF176</color>
+    <color name="corn_400">#FFEE58</color>
+    <color name="corn_500">#FFEB3B</color>
+    <color name="corn_600">#FDD835</color>
+    <color name="corn_700">#FBC02D</color>
+    <color name="corn_800">#F9A825</color>
+    <color name="corn_900">#F57F17</color>
+
+    <!-- Forest Canopy -->
+    <color name="forest_50">#E0F2F1</color>
+    <color name="forest_100">#B2DFDB</color>
+    <color name="forest_200">#80CBC4</color>
+    <color name="forest_300">#4DB6AC</color>
+    <color name="forest_400">#26A69A</color>
+    <color name="forest_500">#009688</color>
+    <color name="forest_600">#00897B</color>
+    <color name="forest_700">#00796B</color>
+    <color name="forest_800">#00695C</color>
+    <color name="forest_900">#004D40</color>
+
+    <!-- Sugarcane Lime -->
+    <color name="sugarcane_50">#F9FBE7</color>
+    <color name="sugarcane_100">#F0F4C3</color>
+    <color name="sugarcane_200">#E6EE9C</color>
+    <color name="sugarcane_300">#DCE775</color>
+    <color name="sugarcane_400">#D4E157</color>
+    <color name="sugarcane_500">#CDDC39</color>
+    <color name="sugarcane_600">#C0CA33</color>
+    <color name="sugarcane_700">#AFB42B</color>
+    <color name="sugarcane_800">#9E9D24</color>
+    <color name="sugarcane_900">#827717</color>
+
+    <!-- Soil Brown -->
+    <color name="soil_50">#EFEBE9</color>
+    <color name="soil_100">#D7CCC8</color>
+    <color name="soil_200">#BCAAA4</color>
+    <color name="soil_300">#A1887F</color>
+    <color name="soil_400">#8D6E63</color>
+    <color name="soil_500">#795548</color>
+    <color name="soil_600">#6D4C41</color>
+    <color name="soil_700">#5D4037</color>
+    <color name="soil_800">#4E342E</color>
+    <color name="soil_900">#3E2723</color>
+
+    <!-- Earth Green -->
+    <color name="earth_50">#F1F8E9</color>
+    <color name="earth_100">#DCEDC8</color>
+    <color name="earth_200">#C5E1A5</color>
+    <color name="earth_300">#AED581</color>
+    <color name="earth_400">#9CCC65</color>
+    <color name="earth_500">#8BC34A</color>
+    <color name="earth_600">#7CB342</color>
+    <color name="earth_700">#689F38</color>
+    <color name="earth_800">#558B2F</color>
+    <color name="earth_900">#33691E</color>
+
+    <!-- Banana Leaf -->
+    <color name="banana_50">#F0F4C3</color>
+    <color name="banana_100">#E6EE9C</color>
+    <color name="banana_200">#DCE775</color>
+    <color name="banana_300">#D4E157</color>
+    <color name="banana_400">#CDDC39</color>
+    <color name="banana_500">#C0CA33</color>
+    <color name="banana_600">#AFB42B</color>
+    <color name="banana_700">#9E9D24</color>
+    <color name="banana_800">#827717</color>
+    <color name="banana_900">#F57F17</color>
+
+    <!-- Leafy Green -->
+    <color name="leafy_50">#E8F5E9</color>
+    <color name="leafy_100">#C8E6C9</color>
+    <color name="leafy_200">#A5D6A7</color>
+    <color name="leafy_300">#81C784</color>
+    <color name="leafy_400">#66BB6A</color>
+    <color name="leafy_500">#4CAF50</color>
+    <color name="leafy_600">#43A047</color>
+    <color name="leafy_700">#388E3C</color>
+    <color name="leafy_800">#2E7D32</color>
+    <color name="leafy_900">#1B5E20</color>
+
+    <!-- Drought Yellow -->
+    <color name="drought_50">#FFFDE7</color>
+    <color name="drought_100">#FFF9C4</color>
+    <color name="drought_200">#FFF59D</color>
+    <color name="drought_300">#FFF176</color>
+    <color name="drought_400">#FFEE58</color>
+    <color name="drought_500">#FFEB3B</color>
+    <color name="drought_600">#FDD835</color>
+    <color name="drought_700">#FBC02D</color>
+    <color name="drought_800">#F9A825</color>
+    <color name="drought_900">#F57F17</color>
+
+    <!-- Climate Sky -->
+    <color name="climate_50">#E3F2FD</color>
+    <color name="climate_100">#BBDEFB</color>
+    <color name="climate_200">#90CAF9</color>
+    <color name="climate_300">#64B5F6</color>
+    <color name="climate_400">#42A5F5</color>
+    <color name="climate_500">#2196F3</color>
+    <color name="climate_600">#1E88E5</color>
+    <color name="climate_700">#1976D2</color>
+    <color name="climate_800">#1565C0</color>
+    <color name="climate_900">#0D47A1</color>
+
+    <!-- Fertility Green -->
+    <color name="fertility_50">#E8F5E9</color>
+    <color name="fertility_100">#C8E6C9</color>
+    <color name="fertility_200">#A5D6A7</color>
+    <color name="fertility_300">#81C784</color>
+    <color name="fertility_400">#66BB6A</color>
+    <color name="fertility_500">#4CAF50</color>
+    <color name="fertility_600">#43A047</color>
+    <color name="fertility_700">#388E3C</color>
+    <color name="fertility_800">#2E7D32</color>
+    <color name="fertility_900">#1B5E20</color>
+
+    <!-- Monsoon Blue-Green -->
+    <color name="monsoon_50">#E0F7FA</color>
+    <color name="monsoon_100">#B2EBF2</color>
+    <color name="monsoon_200">#80DEEA</color>
+    <color name="monsoon_300">#4DD0E1</color>
+    <color name="monsoon_400">#26C6DA</color>
+    <color name="monsoon_500">#00BCD4</color>
+    <color name="monsoon_600">#00ACC1</color>
+    <color name="monsoon_700">#0097A7</color>
+    <color name="monsoon_800">#00838F</color>
+    <color name="monsoon_900">#006064</color>
+
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AgriClimate</string>
+    <string name="vision">Helping the feeders</string>
+    <string name="irrigation_planning">Irrigation Planning</string>
+    <string name="home">Home</string>
+    <string name="crop_guidelines">Crop Guidelines</string>
+    <string name="crop_selection">Crop Selection</string>
+    <string name="pest_control_measures">Pest Control Measures</string>
+    <string name="funding_schemes">Funding Schemes</string>
+    <string name="contact_for_help">Contact For Help</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="agri_about">AgriClimate is designed to help farmers make climate-smart decisions. From real-time weather updates to personalized crop recommendations, our app empowers farmers with the right tools and information to maximize yield and minimize risk.</string>
+    <string name="agri_mission">To enable sustainable agriculture through technology and create climate-resilient farming communities.</string>
+    <string name="agri_team">We are a passionate group of developers, agronomists, and environmentalists working together to transform agriculture through innovation and data.</string>
+</resources>
